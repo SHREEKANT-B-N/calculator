@@ -1,0 +1,14 @@
+{
+  "name": "smartcalc-pro",
+  "version": "1.0.0",
+  "description": "Backend for SmartCalc Pro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "SHREEKANT-B-N",
+  "license": "ISC"
+}
