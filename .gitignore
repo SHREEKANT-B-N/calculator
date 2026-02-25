@@ -1,0 +1,16 @@
+# SmartCalc Pro
+
+# Ignore log files
+*.log
+
+# Ignore node modules
+node_modules/
+
+# Ignore build outputs
+/build/
+
+# Ignore cache files
+/.cache/
+
+# Ignore environment variables
+.env
