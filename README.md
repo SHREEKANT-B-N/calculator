@@ -1,22 +1,28 @@
 # SmartCalc Pro
 
-SmartCalc Pro is a powerful and intuitive calculator application designed for various mathematical calculations. It features a clean interface and supports advanced functions, making it perfect for students, professionals, and anyone in need of a reliable calculator.
+SmartCalc Pro is a powerful calculator application for all your mathematical needs.
 
 ## Features
 - Basic arithmetic operations
-- Scientific functions
-- Graphing support
-- Unit conversions
-- History of calculations
+- Advanced mathematical functions
+- User-friendly interface
 
 ## Installation
-To install SmartCalc Pro, clone the repository and build the project.
-
-```bash
-git clone https://github.com/SHREEKANT-B-N/calculator.git
-cd calculator
-# build instructions here
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SHREEKANT-B-N/calculator.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd calculator
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
 ## Usage
-Launch the application and start performing calculations right away!
+Run the application using:
+```bash
+npm start
+```
